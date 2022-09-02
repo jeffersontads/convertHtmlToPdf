@@ -1,5 +1,8 @@
 # ConvertHtmlToPdf
 
+
+#This project is for example use in Angular applications when you want to convert HTML page to PDF
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.
 
 ## Development server
